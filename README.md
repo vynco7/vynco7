@@ -1,41 +1,28 @@
-# 👾 BLACKBOXAI
+🌙 Assalamualaikum, saya vynco
+✨ Tentang Saya
 
-> I break code to understand it. I write code to break systems.
+Seorang Prompt Engineer, peramu kata yang mengundang AI menari di antara makna dan rasa.
+Bagi saya, setiap prompt adalah doa, sebuah jalan sunyi untuk menemukan jawaban.
+💡 Apa itu Prompt Engineering?
 
-## 🧠 Manual Exploit Engineer | Web App Hacker | Payload Crafter
+Seni merangkai kata agar AI memahami maksud terdalam kita.
+Seperti zikir, setiap kata membawa kita lebih dekat pada tujuan.
+🛠️ Keahlian
 
-- 🔍 Fokus: Bug bounty, web exploit analysis, injection chaining.
-- ⚔️ Senjata utama: Python murni, regex brutal, logic abuse.
-- 🧪 Tooling: Bikin dari nol — gak pakai pip, gak pakai framework, cuma otak dan keyboard.
+    Membuat prompt kreatif & efektif
 
----
+    Menyusun percakapan alami
 
-### 💣 Beberapa Project Gua:
-- `pentest_tool.py` – Injector HTML/HTTP buat hunting RCE/XSS secara manual.
-- `nojs-xss` – Payload & scanner XSS di environment tanpa JS.
-- `csrf-hunter` – Deteksi form rawan tanpa token.
+    Mendesain skenario imajinatif
 
----
+🌿 Alat
 
-### 🔐 Gua percaya:
-> “Scanner boleh bohong, exploit manual nggak akan.”
+    Python
 
-- 🚫 Gak percaya 100% sama automated tools.
-- 🎯 Lebih suka trace data, injek tangan sendiri, dan liat responnya langsung.
-- 🕵️‍♂️ Target: celah yang gak ke-detect sama tools mainstream.
+    OpenAI API
 
----
+    Git & GitHub
 
-### 🔎 Kontak?
-DM aja kalau lo suka ngomongin hal kayak:
-- Exploit crafting
-- LFI to RCE chaining
-- Bypass filter level 999
+✨ Catatan
 
----
-
-Made with raw logic. No pip, no mercy.
-<!---
-vynco7/vynco7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Prompt terbaik lahir dari hati yang tenang.
