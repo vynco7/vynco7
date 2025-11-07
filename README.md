@@ -12,3 +12,4 @@ assalamualaikum
 <a href="https://instagram.com/finnnnz77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="finnnnz77" height="30" width="40" /></a>
 </p>
 
+[![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=vynco7.vynco7&left_color=green&right_color=blue)](https://github.com/vynco7)
